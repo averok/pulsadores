@@ -1961,7 +1961,7 @@ input, select, textarea {
 		input[type="button"].primary,
 		button.primary,
 		.button.primary {
-			background-color: #49fcd4;
+			background-color: #3a6527;
 			box-shadow: none;
 			color: #000000 !important;
 		}
@@ -2249,15 +2249,15 @@ input, select, textarea {
 		input[type="checkbox"]:checked + label:before,
 		input[type="radio"]:checked + label:before {
 			content: '\f00c';
-			background-color: #49fcd4;
-			border-color: #49fcd4;
+			background-color: #3a6527;
+			border-color: #3a6527;
 			color: #ffffff;
 		}
 
 		input[type="checkbox"]:focus + label:before,
 		input[type="radio"]:focus + label:before {
-			border-color: #49fcd4;
-			box-shadow: 0 0 0 1px #49fcd4;
+			border-color: #3a6527;
+			box-shadow: 0 0 0 1px #3a6527;
 		}
 
 	input[type="checkbox"] + label:before {
@@ -3223,7 +3223,7 @@ input, select, textarea {
 
 		#wrapper:before {
 			background-attachment: fixed;
-			background-color: #49fcd4;
+			background-color: #3a6527;
 			background-image: url("../../images/normal-explotado.svg");
 			background-position: -50% 10%;
 			background-repeat: repeat-y;
@@ -3587,7 +3587,7 @@ input, select, textarea {
 
 					#wrapper > section > header {
 						background-attachment: fixed;
-						background-color: #49fcd4;
+						background-color: #3a6527;
 						background-image: url("../../images/normal-explotado.svg");
 						background-position: 25% 50%;
 						background-repeat: repeat-y;
